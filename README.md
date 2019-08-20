@@ -22,3 +22,8 @@ To create a bot car to be able to participate in different events and competitio
 ![](https://i.imgur.com/lm3TGHl.jpg)
 
 
+# Circuit Idea
+
+- Using NRF modules to interact Bot and remote
+  - Adding Ultrasonic sensors to make Maze running bot
+![](https://howtomechatronics.com/wp-content/uploads/2017/10/NRF24L01-Wireless-Arduino-Robot-Car-Control-Circuit-Schematic.jpg)
